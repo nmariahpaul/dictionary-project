@@ -1,0 +1,9 @@
+.Dictionary form {
+  text-align: center;
+  margin: 30px 0;
+}
+
+.form-control {
+  width: 500px;
+  display: inline;
+}
