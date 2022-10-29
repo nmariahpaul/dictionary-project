@@ -10,6 +10,20 @@ export default function App() {
       <main>
         <Dictionary />
       </main>
+      <footer>
+        <p>
+          <small>
+            <a
+              href="https://github.com/nmariahpaul/dictionary-project"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Open-sourced
+            </a>
+            code by Mariah Paul
+          </small>
+        </p>
+      </footer>
     </div>
   );
 }

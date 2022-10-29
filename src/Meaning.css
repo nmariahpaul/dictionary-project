@@ -1,0 +1,13 @@
+.Meaning {
+  max-width: 700px;
+  text-align: center;
+}
+
+.Meaning h4 {
+  font-size: 20px;
+  opacity: 0.9;
+}
+
+.Meaning em {
+  opacity: 0.7;
+}

@@ -1,6 +1,10 @@
+.Dictionary {
+  max-width: 700px;
+}
+
 .Dictionary form {
   text-align: center;
-  margin: 30px 0;
+  margin: 30px auto;
 }
 
 .form-control {
