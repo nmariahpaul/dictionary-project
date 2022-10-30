@@ -1,3 +1,4 @@
+import React from "react";
 import "./App.css";
 import Dictionary from "./Dictionary";
 
@@ -16,7 +17,7 @@ export default function App() {
             <a
               href="https://github.com/nmariahpaul/dictionary-project"
               target="_blank"
-              rel="noreferrer"
+              rel="noopener noreferrer"
             >
               Open-sourced
             </a>
