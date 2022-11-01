@@ -1,9 +1,7 @@
 body {
   background: #f9f8fe;
-}
-
-.App {
-  max-width: 700px;
+  max-width: 1200px;
+  margin: 0 auto;
 }
 
 .App a {
