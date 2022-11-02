@@ -21,7 +21,7 @@ export default function App() {
           </a>
           and is{" "}
           <a
-            href="https://eclectic-naiad-a616b2.netlify.app/"
+            href="https://main--eclectic-naiad-a616b2.netlify.app/"
             target="_blank"
             rel="noopener noreferrer"
           >
