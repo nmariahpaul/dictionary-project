@@ -11,16 +11,22 @@ export default function App() {
       </main>
       <footer>
         <p>
-          <small>
-            <a
-              href="https://github.com/nmariahpaul/dictionary-project"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              Open-sourced
-            </a>
-            code by Mariah Paul
-          </small>
+          This project was{" "}
+          <a
+            href="https://github.com/nmariahpaul/dictionary-project"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            coded by Mariah Paul
+          </a>
+          and is{" "}
+          <a
+            href="https://eclectic-naiad-a616b2.netlify.app/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            hosted on Netlify
+          </a>
         </p>
       </footer>
     </div>

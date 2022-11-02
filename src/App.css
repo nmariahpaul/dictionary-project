@@ -11,6 +11,8 @@ body {
 }
 
 .App footer {
+  font-size: 14px;
+  font-weight: bold;
   text-align: center;
   margin: 40px 0;
 }
