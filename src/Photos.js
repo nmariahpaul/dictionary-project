@@ -26,7 +26,11 @@ export default function Photos(props) {
         </div>
         <footer>
           images from{" "}
-          <a href="https://www.pexels.com" target="_blank" rel="noreferrer">
+          <a
+            href="https://www.pexels.com"
+            target="_blank"
+            rel="noopener  noreferrer"
+          >
             Pexels
           </a>
         </footer>
